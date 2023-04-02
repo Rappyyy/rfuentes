@@ -5,8 +5,7 @@ Skills
 Programming languages: Java, Javascript.
 Frameworks: [TBA]
 Tools: IntelliJ Idea, Visual Studio Code
-Experience
-[Insert any relevant work experience or projects you have worked on.]
+Experience : [TBA]
 
 Education
 Bachelor of Information Technology Graduate.
